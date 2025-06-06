@@ -2,10 +2,10 @@ package com.example.myapplication
 
 import android.os.Bundle
 import android.widget.TextView
-import androidx.appcompat.app.AppCompatActivity
+import androidx.activity.ComponentActivity
 import androidx.constraintlayout.widget.ConstraintLayout
 
-class SecondActivity : AppCompatActivity() {
+class SecondActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val constraintLayout = ConstraintLayout(this)
