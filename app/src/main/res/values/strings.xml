@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="activity_1_title">Activity 1</string>
-    <string name="activity_2_title">Activity 2</string>
+    <string name="activity_2_title">Керування клієнтами</string>
     <string name="button_go_to_activity_2">Go to activity 2</string>
     <string name="hello_message">Hello Android!</string>
+    <string name="hint_passport">Номер паспорта</string>
+    <string name="hint_name">Прізвище та ім\'я</string>
+    <string name="hint_city">Місто</string>
+    <string name="add_client_button">Додати клієнта</string>
+    <string name="clients_list_title">Список клієнтів:</string>
 </resources>
